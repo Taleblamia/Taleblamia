@@ -1,10 +1,11 @@
 # 👋 Lamia Taleb
 
 ### 🚀 À propos de moi
-Étudiante en **Master ILSEN (Ingénierie du Logiciel et de la Société Numérique)** à l'Université d'Avignon[cite: 11]. Passionnée par le **développement logiciel**, la **Data Science** et **l'Intelligence Artificielle**[cite: 11], je conçois des applications full-stack, des modèles d'IA et des systèmes intelligents[cite: 11].
+Étudiante en **Master ILSEN (Ingénierie du Logiciel et de la Société Numérique)** à l'Université d'Avignon. Passionnée par le **développement logiciel**, la **Data Science** et **l'Intelligence Artificielle**, je conçois des applications full-stack, des modèles d'IA et des systèmes intelligents.
 
-🌐 **LinkedIn :** [linkedin.com/in/lamia-taleb](https://fr.linkedin.com/in/lamia-taleb-436732258)[cite: 11]  
-📧 **Email :** lamia.taleb.estp@gmail.com[cite: 11]
+🌐 **LinkedIn :** [linkedin.com/in/lamia-taleb](https://fr.linkedin.com/in/lamia-taleb-436732258)  
+📧 **Email :** lamia.taleb.estp@gmail.com  
+📞 **Téléphone :** +33 7 81 81 35 20
 
 ---
 
@@ -58,3 +59,4 @@
 ### 📬 Me Contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/lamia-taleb-436732258)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamia.taleb.estp@gmail.com)
+[![Téléphone](https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33781813520)
