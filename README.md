@@ -46,6 +46,17 @@
 
 ---
 
+### 🤝 Compétences Personnelles
+
+![Autonomie](https://img.shields.io/badge/Autonomie-2EA44F?style=for-the-badge)
+![Travail_en_équipe](https://img.shields.io/badge/Travail_en_équipe-0969DA?style=for-the-badge)
+![Résolution_de_problèmes](https://img.shields.io/badge/Résolution_de_problèmes-8250DF?style=for-the-badge)
+![Rigueur](https://img.shields.io/badge/Rigueur-BF3989?style=for-the-badge)
+![Adaptabilité](https://img.shields.io/badge/Adaptabilité-D97706?style=for-the-badge)
+![Sens_de_l'écoute](https://img.shields.io/badge/Sens_de_l'écoute-0891B2?style=for-the-badge)
+
+---
+
 ### 🏆 Projets Phares
 
 | Projet | Description | Technologies |
