@@ -1,39 +1,75 @@
-# Bonjour, je suis Lamia Taleb 👋
+# 👋 Lamia Taleb
 
-Étudiante en **Master 1 Informatique – parcours ILSEN** à Avignon Université, je m’intéresse au développement logiciel, à la data science et à l’intelligence artificielle. J’aime concevoir des applications et expérimenter avec des algorithmes et des modèles d’apprentissage automatique.
+### 🚀 À propos de moi
+Étudiante en **Master ILSEN (Ingénierie du Logiciel et de la Société Numérique)** à l'Université d'Avignon. Passionnée par le **développement logiciel**, la **Data Science** et **l'Intelligence Artificielle**, je conçois des applications full-stack, des modèles d'IA et des systèmes intelligents.
 
-## Projets
-
-| Projet | Présentation | Technologies | Code |
-|---|---|---|---|
-| **WithYou** | Plateforme collaborative pour regarder des vidéos ensemble, avec lecture synchronisée, salons et chat. | React, TypeScript, Socket.io, Supabase, Tailwind CSS, PostgreSQL | [Dépôt GitHub](https://github.com/Taleblamia/WithYou) |
-| **Morpion Min-Max** | Jeu de morpion en console contre une IA fondée sur l’algorithme Min-Max. | C++ | [Dépôt GitHub](https://github.com/Taleblamia/Morpion_MinMax) |
-| **Labyrinthe** | Projet de programmation autour d’un labyrinthe. | Algorithmique | [Dépôt GitHub](https://github.com/Taleblamia/Labyrinthe) |
-| **Détection de feu par IA** | Analyse d’images et de vidéos pour distinguer la présence de feu, son absence ou un début d’incendie. Résultats enregistrés : EfficientNet-B0 **83,9 %** et MobileNetV2 **88,4 %** (5ᵉ place). | Python, PyTorch, EfficientNet-B0, MobileNetV2 | [Dépôt GitHub](https://github.com/Taleblamia/fire-detection-ai) |
-| **Classification de Fake News** | Prétraitement de textes et comparaison de TF-IDF + Naive Bayes avec DistilBERT. Résultat enregistré : **91,15 %** de bonnes prédictions sur le jeu de test avec DistilBERT. | Python, Scikit-learn, Transformers, PyTorch | [Dépôt GitHub](https://github.com/Taleblamia/fake-news-classification) |
-| **Pacman – apprentissage par renforcement** | Agents entraînés sur Gridworld et Pacman avec Value Iteration, Q-learning et Q-learning approximatif ; exploration d’un agent DQN. | Python, TensorFlow, apprentissage par renforcement | [Dépôt GitHub](https://github.com/Taleblamia/pacman-reinforcement-learning) |
-| **Gestion des pannes par QR code** | Application web de déclaration et de suivi des incidents informatiques réalisée pendant un stage à Avignon Université. | Symfony, Twig, PHP, JavaScript, SQLite, Docker | [Dépôt GitHub](https://github.com/Taleblamia/panne_ceri_sympfony) |
-
-## Compétences
-
-- **Langages :** Python, C++, Java, JavaScript, PHP, OCaml, Scheme, R, Julia, Bash, SQL, XML.
-- **Web :** HTML, CSS, React, TypeScript, Node.js, Symfony, Twig, Laravel, Flask, Tailwind CSS.
-- **Data et IA :** PyTorch, TensorFlow, Scikit-learn, Transformers, MobileNetV2, EfficientNet-B0, DistilBERT.
-- **Bases de données :** PostgreSQL, SQLite, MySQL, Supabase.
-- **Outils et systèmes :** Git, GitHub, Docker, Linux, Windows, Jira, Arduino, App Inventor, SolidWorks.
-
-## Expériences
-
-- **Assistante numérique étudiante** — Avignon Université.
-- **Stage de développement full-stack** — Avignon Université : application de gestion des pannes par QR code.
-- **Stage en analyse de données scientifiques** — Laboratoire Informatique d’Avignon : traitement de données, extraction de métadonnées et bases de données.
-
-## Me contacter
-
-- **Email :** [lamia.taleb.estp@gmail.com](mailto:lamia.taleb.estp@gmail.com)
-- **LinkedIn :** [linkedin.com/in/lamia-taleb](https://fr.linkedin.com/in/lamia-taleb-436732258)
-- **Téléphone :** [+33 7 81 81 35 20](tel:+33781813520)
+🌐 **LinkedIn :** [linkedin.com/in/lamia-taleb](https://fr.linkedin.com/in/lamia-taleb-436732258)  
+📧 **Email :** lamia.taleb.estp@gmail.com  
+📞 **Téléphone :** +33 7 81 81 35 20
 
 ---
 
-Retrouve aussi mes [autres dépôts sur GitHub](https://github.com/Taleblamia).
+### 🛠️ Compétences Techniques
+
+#### 💻 Langages de Programmation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+#### 🌐 Développement Web & Frameworks
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-82B512?style=for-the-badge&logo=twig&logoColor=white)
+
+#### 🤖 IA, Data Science & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### 🛢️ Bases de Données
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ⚙️ DevOps, Systèmes & Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 🤝 Compétences Personnelles
+
+![Autonomie](https://img.shields.io/badge/Autonomie-2EA44F?style=for-the-badge)
+![Travail_en_équipe](https://img.shields.io/badge/Travail_en_équipe-0969DA?style=for-the-badge)
+![Résolution_de_problèmes](https://img.shields.io/badge/Résolution_de_problèmes-8250DF?style=for-the-badge)
+![Rigueur](https://img.shields.io/badge/Rigueur-BF3989?style=for-the-badge)
+![Adaptabilité](https://img.shields.io/badge/Adaptabilité-D97706?style=for-the-badge)
+![Sens_de_l'écoute](https://img.shields.io/badge/Sens_de_l'écoute-0891B2?style=for-the-badge)
+
+---
+
+### 🏆 Projets Phares
+
+| Projet | Description | Technologies |
+| :--- | :--- | :--- |
+| **📱 Application de Déclaration de Pannes** | Application web full-stack de gestion et déclaration de pannes informatiques par QR code à l'Université d'Avignon. | `Symfony`, `Twig`, `PHP`, `JavaScript`, `SQLite`, `Docker` |
+| **🔥 Détection de Feux par IA** | Modèle IA de détection de fumée et d'incendies en temps réel sur flux vidéo (Computer Vision & XAI). | `PyTorch`, `Python`, `VGG16`, `Computer Vision` |
+| **📰 Classification de Fake News** | Modèle NLP de détection de fausses informations par prétraitement et classification de données textuelles. | `Python`, `NLP`, `Scikit-Learn` |
+| **🔍 Stage Recherche - LIA** | Analyse de données scientifiques, détection d'anomalies et machine learning. | `Python`, `SQL`, `PostgreSQL`, `Machine Learning` |
+| **🤖 Bras Robotique Automatisé** | Tri d'objets par couleur en temps réel via une caméra Pixy et un bras robotique. | `Arduino`, `App Inventor`, `SolidWorks` |
+
+---
+
+### 📬 Me Contacter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/lamia-taleb-436732258)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamia.taleb.estp@gmail.com)
+[![Téléphone](https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33781813520)
